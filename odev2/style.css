@@ -1,0 +1,48 @@
+.google_logo{
+    flex: 1;
+    display: flex;
+    margin-top: 12%;
+    flex-direction: column;
+}
+
+.google_logo img{
+    object-fit: contain;
+    height: 100px;
+}
+
+.search_bar{
+    background-color: #D3DEDC;
+    height: 100px;
+}
+
+.search_bar p{
+    text-align: center;
+}
+
+.search_bar input{
+    flex: 1;
+    display: flex;
+    padding: 10px 20px;
+    outline: none;
+    height: 2px;
+    width: 350px;
+    margin: auto;
+}
+
+.search_bar .button{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.linkler{
+    background-color:lightseagreen ;
+    text-align: justify;
+    float:left;
+    width:500px;
+    height:100px;
+    margin-left: 6px;
+}
+
+.footer{
+    text-align: center;
+}
